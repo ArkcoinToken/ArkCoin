@@ -14,6 +14,6 @@ ArkCoin is a decentralized meme token built on the Ethereum blockchain, inspired
 
 ## 📄 Access the Whitepaper
 
-[Click here to read the full MiCA-compliant whitepaper](./ArkCoin2.pdf)
+[Click here to read the full MiCA-compliant whitepaper](./ArkCoin 2.pdf)
 
 > ArkCoin has no utility, no promises, and no guarantees. It is purely for entertainment and experimentation.
