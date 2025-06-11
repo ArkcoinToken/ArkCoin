@@ -1,23 +1,19 @@
 # ArkCoin Whitepaper
 
-Welcome to the official ArkCoin Whitepaper.
+Welcome to the official ArkCoin Whitepaper repository.
 
-This document outlines the core principles, purpose, and structure of ArkCoin — a decentralized meme cryptocurrency inspired by the biblical story of Noah’s Ark.
+ArkCoin is a decentralized meme token built on the Ethereum blockchain, inspired by the biblical story of Noah’s Ark. It is governed by the community and designed to be transparent, secure, and simple — with no formal team or roadmap.
 
-## What's Inside
+## Contents
 
-- ✅ Project Overview
-- ✅ Tokenomics
-- ✅ Governance and Community Role
-- ✅ MiCA Compliance
-- ✅ Security and Transparency Measures
+- Project overview
+- Tokenomics
+- Community governance
+- MiCA compliance details
+- Security and transparency approach
 
-This whitepaper is provided for informational purposes and is intended to give the community and potential participants a clear understanding of the project.
+## 📄 Access the Whitepaper
 
-## View the Whitepaper
+[Click here to read the full MiCA-compliant whitepaper](./ArkCoin2.pdf)
 
-📄 [ArkCoin2.pdf](./ArkCoin2.pdf)
-
----
-
-**Note:** ArkCoin has no formal team, no roadmap, and no guaranteed utility. It is purely community-driven.
+> ArkCoin has no utility, no promises, and no guarantees. It is purely for entertainment and experimentation.
