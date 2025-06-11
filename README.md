@@ -8,7 +8,7 @@ Read the ArkCoin Whitepaper
 
 🌐 Social Links
 
-Website: arkcointoken.com
+Website: https://www.arkcointoken.com
 
 Twitter/X: @ArkcoinToken
 
