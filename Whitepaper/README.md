@@ -16,7 +16,7 @@ This whitepaper is provided for informational purposes and is intended to give t
 
 ## View the Whitepaper
 
-📄 [ArkCoin_Whitepaper_MiCA.pdf](./ArkCoin_Whitepaper_MiCA.pdf)
+📄 [ArkCoin2.pdf](./ArkCoin2.pdf)
 
 ---
 
