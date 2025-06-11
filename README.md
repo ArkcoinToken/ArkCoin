@@ -1,41 +1,12 @@
 # ArkCoin (ARKCOIN)
 
-ARKCOIN is a decentralized meme cryptocurrency inspired by the biblical story of Noah's Ark. Built on the Ethereum blockchain, ArkCoin embraces transparency, simplicity, and community-driven growth.
+**ARKCOIN** is a decentralized meme cryptocurrency built on the Ethereum blockchain, inspired by the biblical story of Noah’s Ark. With no formal team, no roadmap, and no promises, ArkCoin is entirely governed by its community and thrives as a pure memecoin experiment in decentralization.
 
-📄 Whitepaper
+- 🔁 Liquidity Burned: 80%
+- 🔥 Tokens Burned: 20%
+- 💬 Telegram: [@joinArkcoinToken](https://t.me/joinArkcoinToken)
+- 🐦 Twitter: [@ArkcoinToken](https://twitter.com/ArkcoinToken)
+- 👾 Reddit: [r/Arkcoinofficial](https://www.reddit.com/r/Arkcoinofficial/)
+- 📄 Whitepaper: [View Arkcoin MiCA Whitepaper (PDF)](https://github.com/ArkcoinToken/ArkCoin/blob/2ce826a07a06973c150ed3cd4fdb8eb53201bc24/Whitepaper/Arkcoin%202.pdf)
 
-Read the ArkCoin Whitepaper
-
-🌐 Social Links
-
-Website: https://www.arkcointoken.com
-
-Twitter/X: @ArkcoinToken
-
-Reddit: r/Arkcoinofficial
-
-Telegram: @joinArkcoinToken
-
-
-💧 Tokenomics
-
-Total Supply: 1,000,000,000 ARKCOIN
-
-Liquidity: 80%
-
-Burned: 20%
-
-
-🔒 Smart Contract
-
-Contract Address: 0xd418dbd9a83d483677d52eb8d56bb35a93bdf77e
-
-Etherscan: View on Etherscan
-
-Uniswap: Trade ARKCOIN
-
-
-📢 Disclaimer
-
-ARKCOIN has no formal team or roadmap. It is entirely community-led and thrives on organic engagement and participation.
-
+ArkCoin is a fair-launch, community-driven token built for fun, culture, and curiosity. No dev wallet, no VC funding—just vibes and the people.
