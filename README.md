@@ -4,7 +4,7 @@
 
 - 🔁 Liquidity Burned: 80%
 - 🔥 Tokens Burned: 20%
-- 💬 Telegram: [@joinArkcoinToken](https://t.me/joinArkcoinToken)
+- 💬 Telegram: [@joinArkcoin](https://t.me/joinArkcoinToken)
 - 🐦 Twitter: [@ArkcoinToken](https://twitter.com/ArkcoinToken)
 - 👾 Reddit: [r/Arkcoinofficial](https://www.reddit.com/r/Arkcoinofficial/)
 - 📄 Whitepaper: [View Arkcoin MiCA Whitepaper (PDF)](https://github.com/ArkcoinToken/ArkCoin/blob/2ce826a07a06973c150ed3cd4fdb8eb53201bc24/Whitepaper/Arkcoin%202.pdf)
