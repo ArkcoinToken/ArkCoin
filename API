@@ -1,1 +1,8 @@
-
+{
+  "name": "ArkCoin",
+  "symbol": "ARKCOIN",
+  "contract_address": "0xd418dbd9a83d483677d52eb8d56bb35a93bdf77e",
+  "circulating_supply": 794060000,
+  "total_supply": 1000000000,
+  "updated_at": "2025-06-26T00:00:00Z"
+}
