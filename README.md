@@ -10,7 +10,7 @@
 - 🐦 Twitter: [@ArkcoinToken](https://twitter.com/ArkcoinToken)
 - 👾 Reddit: [r/Arkcoinofficial](https://www.reddit.com/r/Arkcoinofficial/)
 - 🦄 Trade on Uniswap: [Uniswap Pair](https://app.uniswap.org/swap?outputCurrency=0xd418dbd9a83d483677d52eb8d56bb35a93bdf77e&chain=ethereum)
-- 📄 Whitepaper: [View Arkcoin MiCA Whitepaper (PDF)](https://github.com/ArkcoinToken/ArkCoin/blob/2ce826a07a06973c150ed3cd4fdb8eb53201bc24/Whitepaper/Arkcoin%202.pdf)
+- 📄 Whitepaper: [View Arkcoin MiCA Whitepaper (PDF)](https://github.com/ArkcoinToken/ArkCoin/blob/main/Whitepaper/Arkcoin%202%20(4).pdf)
 
 ---
 
